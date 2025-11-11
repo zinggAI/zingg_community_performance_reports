@@ -2,7 +2,7 @@
   "testName" : "ncVoters_5M",
   "zinggScript": "./scripts/zingg.sh",
   "propertyFile": "./config/zingg.conf",
-  "reportFile" : "./perf_test/perf_test_report/testReport_ncVoters5M.json",
+  "reportFile" : "zingg_community_performance_reports/perf_test/perf_test_report/testReport_ncVoters5M.json",
   "directory": ".",
   "setup": null,
   "teardown": null,
